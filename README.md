@@ -1,3 +1,3 @@
 # .github
 
-yuzawa-san's default settings
+yuzawa-san's default repo settings
